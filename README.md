@@ -84,13 +84,35 @@ Our project is continually evolving, with several key implementation enhancement
 
 These ongoing efforts aim to make our phishing domain detection system more advanced, user-friendly, and effective in countering evolving cybersecurity threats.
 
+### Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-2.0%2B-blue?style=for-the-badge&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Scikit--learn-0.24%2B-blue?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Docker-20.10%2B-blue?style=for-the-badge&logo=docker" alt="Docker">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Google%20Colab-25D366?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab">
+</p>
+
 ### Contributors
 
 Our project is a collaborative effort by a dedicated team. Here are the team members with their GitHub profiles:
 
-1. [Himanshu Singla - GitHub Profile](insert-Jane's-GitHub-link-here)
-2. [Sanjay Choudhary - GitHub Profile](insert-Sam's-GitHub-link-here)
-3. [Bikash Kumar - GitHub Profile](insert-Michael's-GitHub-link-here)
-4. [Mayank Kumar - GitHub Profile](insert-Emily's-GitHub-link-here)
-5. [Raghav - GitHub Profile](insert-Emily's-GitHub-link-here)
-6. [Muskan Agarwal - GitHub Profile](insert-Emily's-GitHub-link-here)
+1. Himanshu Singla - [GitHub Profile](https://github.com/himanshusingla123/) 🚀
+2. Sanjay Choudhary - [GitHub Profile](https://github.com/cu-sanjay) 🚀
+3. Bikash Kumar - [GitHub Profile]() 🚀
+4. Mayank Kumar - [GitHub Profile]() 🚀
+5. Raghav - [GitHub Profile](https://github.com/RaghavKakkarr) 🚀
+6. Muskan Agarwal - [GitHub Profile](https://github.com/Muskanmittal3) 🚀
